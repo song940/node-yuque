@@ -1,0 +1,25 @@
+{
+  "name": "@alipay/yuque",
+  "version": "0.0.0",
+  "description": "yuque sdk for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yuque",
+    "lark"
+  ],
+  "author": "zeus.ls",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:zeus.ls/node-yuque.git"
+  },
+  "dependencies": {
+    "xttp": "^1.0.4"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.alibaba-inc.com"
+  }
+}
