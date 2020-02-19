@@ -27,10 +27,7 @@ const lark = new YuQue({
   }
 
   const topics = await lark.topics();
-  console.log(topics);
-
-  // const group = await lark.group('mybank-mobile');
-  // console.log(group);
+  // console.log(topics);
 
 })();
 

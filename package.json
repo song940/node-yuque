@@ -1,6 +1,6 @@
 {
   "name": "@alipay/yuque",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yuque sdk for node.js",
   "main": "index.js",
   "scripts": {
